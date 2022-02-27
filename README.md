@@ -1,3 +1,3 @@
 
 this is my product
-(react+tailwind)
+(react+tailwind+dashboard)
